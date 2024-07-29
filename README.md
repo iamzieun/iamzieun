@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/iamzieun">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamzieun&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamzieun&hide_title=true&show_icons=true&include_all_commits=true&theme=nord"&rank_icon=true"/>
   </a>
 </p>
 
